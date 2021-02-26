@@ -22,7 +22,7 @@ This Battlesnake is not the most recent verion of my code, as I have made update
 
 ALPHA-BETA: This Battlesnake features an Alpha-Beta algorithm modified for Breadth First Search instead of Depth First Search (To give all levels of evaluation a more equal time, and to better utilize the amount of time given each turn), the Alpha-Beta is also modified to deal with multiple snakes acting on the same turn instead of only 1 snake acting.
 
-FLOOD-FILL: This Battlesnake aslo features a flood fill algorithm used to determine a board evaluation mostly based off of space. While the Alpha-Beta algorithm leaves no room for improvement, this evaluation function can be improved, or replaced by an entorly different evaluation function, depending on how you think the best way of evaluating a board state is.
+FLOOD-FILL: This Battlesnake aslo features a flood fill algorithm used to determine a board evaluation mostly based off of space. While the Alpha-Beta algorithm leaves no room for improvement, this evaluation function can be improved, or replaced by an entirely different evaluation function, depending on how you think the best way of evaluating a board state is.
 
 BOARD-GENERATOR: The last major algorithm featured in this Battlesnake is the child board creation used by Alpha-Beta. This algorithm builds all future board states (ignoring possible future food spawns). This board creation has no known bugs, and runs well, but isn't as efficient as it could be.
 
