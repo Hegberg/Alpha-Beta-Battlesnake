@@ -4,7 +4,7 @@ This is a advanced implementation of the [Battlesnake API](https://docs.battlesn
 
 For any people new to Battlesnake, please go to (https://github.com/battlesnakeofficial), for starting snakes and official documentation.
 
-I encourage anyone with development questions to join the Battlesnake Slack (https://play.battlesnake.com/slack), it is a wonderful and supportive community for anyone looking to get into Battlesnake, or having any programming stuggles.
+I encourage anyone with development questions to join the Battlesnake Discord (https://play.battlesnake.com/discord/), it is a wonderful and supportive community for anyone looking to get into Battlesnake, or having any programming stuggles.
 
 ## Videos/Clips
 
